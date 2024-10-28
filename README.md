@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=futura&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+github+account!;Welcome+to+the+Matrix)](https://git.io/typing-svg) <br/>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZloyPandik)](https://git.io/streak-stats)
 
 
 ### Languages and tools
