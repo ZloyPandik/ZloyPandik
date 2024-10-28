@@ -1,10 +1,10 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=futura&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+github+account!;Welcome+to+the+Matrix)](https://git.io/typing-svg) <br/>
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ZloyPandik)](https://git.io/streak-stats)
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZloyPandik&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZloyPandik&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZloyPandik&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZloyPandik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ### Languages and tools
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -22,17 +22,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-### My stat
-
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark" alt=""/>
-</div>
-<!--
-**ZloyPandik/ZloyPandik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
